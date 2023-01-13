@@ -20,7 +20,7 @@
 
 <h3 align="left">Devops:</h3>
 <p align="left">
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="icons/gcp.svg" alt="gcp" width="40" height="40"/> </a>
+<!-- <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="icons/gcp.svg" alt="gcp" width="40" height="40"/> </a> -->
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="icons/aws.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="icons/terraform.svg" alt="terraform" width="40" height="40"/> </a>
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="icons/jenkins.svg" alt="jenkins" width="40" height="40"/> </a>
