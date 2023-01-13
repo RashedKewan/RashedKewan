@@ -35,11 +35,11 @@
 
 </p>
 
-<h3 align="left">Backend Development:</h3>
+<!-- <h3 align="left">Backend Development:</h3>
 <p align="left">
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
-</p>
+</p> -->
 
 <h3 align="left">Database:</h3>
 <p align="left">
