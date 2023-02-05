@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rasheed Kewan</h1>
-<h3 align="center">DevOps Engineer </h3>
+<h3 align="center">Software & DevOps Engineer </h3>
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
