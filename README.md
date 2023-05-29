@@ -3,8 +3,8 @@
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
-<a href="https://www.linkedin.com/in/RasheedKewan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waseemtannous" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rashedkewan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waseem.tannous" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/RasheedKewan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
+<a href="https://www.instagram.com/rashedkewan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 
 <h1 align="left">Skills:</h1>
@@ -21,11 +21,11 @@
 <h3 align="left">Devops:</h3>
 <p align="left">
 <!-- <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="icons/gcp.svg" alt="gcp" width="40" height="40"/> </a> -->
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="icons/aws.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="icons/terraform.svg" alt="terraform" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="icons/jenkins.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="icons/kubernetes.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="icons/docker.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/"   target="_blank" rel="noreferrer"> <img src="icons/aws.svg"        alt="aws"        width="40" height="40"/> </a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="icons/terraform.svg"  alt="terraform"  width="40" height="40"/> </a>
+<a href="https://www.jenkins.io/"   target="_blank" rel="noreferrer"> <img src="icons/jenkins.svg"    alt="jenkins"    width="40" height="40"/> </a>
+<a href="https://kubernetes.io/"    target="_blank" rel="noreferrer"> <img src="icons/kubernetes.svg" alt="kubernetes" width="40" height="40"/> </a>
+<a href="https://www.docker.com/"   target="_blank" rel="noreferrer"> <img src="icons/docker.svg"     alt="docker"     width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Frontend Development:</h3>
